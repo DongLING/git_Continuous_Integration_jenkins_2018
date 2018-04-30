@@ -10,7 +10,7 @@
 
 int main(void)
 {
-    printf("Hello Jenkins_Git_CI_project 2018!\n");
+    printf("Hello Jenkins_Git_Continuous Integration_project 2018!\n");
 
     return 0;
 }
